@@ -8,6 +8,3 @@ Aspiring Software Engineer with a strong foundation in Angular for front-end dev
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=trishanereid&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=trishanereid&theme=transparent&hide_border=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=trishanereid&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
